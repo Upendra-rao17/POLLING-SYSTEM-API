@@ -39,4 +39,4 @@ This is a backend api for creating questions and adding options to a specific qu
 * MongoDB
 * Mongoose ODM
 
-Site is live at https:https://github.com/Upendra-rao17/POLLING-SYSTEM-API.git
+Site is live at https:https: https://upendra-rao17.github.io/POLLING-SYSTEM-API/
